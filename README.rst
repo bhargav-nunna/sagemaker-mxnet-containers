@@ -2,6 +2,16 @@
 SageMaker MXNet Containers
 ==========================
 
+
+UPDATE
+--------
+Forked from : https://github.com/aws/sagemaker-mxnet-containers
+Given that the steps in the ReadMe are kind of confusing, I created a Jupyter Notebook
+which will walk through the steps of created the Docker containers given in the example.
+The notebook also includes the steps to push docker images to ECR.
+
+Introduction
+--------------
 SageMaker MXNet Containers is an open source library for making the
 MXNet framework run on Amazon SageMaker.
 
